@@ -1,0 +1,168 @@
+﻿Build started 12/20/2016 9:17:08 PM.
+     1>Project "C:\Users\Kevin\CS3113Hw\Final Project\project_template\Windows\NYUCodebase\NYUCodebase\NYUCodebase.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\SDL2\include /IC:\SDL2_image\include /IC:\glew\include /IC:\SDL2_mixer\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _WINDOWS /D _MBCS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(110): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(116): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(145): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(149): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(152): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(155): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(159): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(162): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(165): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(168): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(172): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(176): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(180): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(211): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(266): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(271): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(287): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(296): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(321): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(347): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(481): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(482): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(483): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(485): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(486): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(487): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(514): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(526): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(527): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(543): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(550): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(562): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(576): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(577): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(594): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(595): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(618): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(625): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(651): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(667): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(707): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(725): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(734): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(735): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(743): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(777): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(778): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(779): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(785): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(786): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(787): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(793): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(795): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(854): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(859): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(864): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(876): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(910): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(911): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(912): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(936): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(937): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(938): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(985): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(997): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(998): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1014): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1021): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1034): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1048): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1049): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1066): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1067): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1090): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1097): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1123): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1134): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1174): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1180): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1181): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1182): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1188): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1189): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1190): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1196): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1198): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1253): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1258): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1263): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1275): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1307): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1308): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1309): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1332): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1333): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1334): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1360): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1369): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1371): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1372): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1377): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1380): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1450): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1460): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1482): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1508): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1516): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1522): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1530): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1536): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1544): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1552): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1560): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1566): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1574): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1580): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1588): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1594): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1602): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1610): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1618): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1624): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1632): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1640): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1648): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1654): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1662): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1670): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1678): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1684): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1692): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1700): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1708): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1714): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1722): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(1940): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(2018): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(2024): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(2031): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(2123): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(2187): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(2251): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(2315): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(2380): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(2392): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(2445): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(2457): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(2512): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(2524): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(2624): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(2653): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(2668): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\kevin\cs3113hw\final project\project_template\windows\nyucodebase\nyucodebase\main.cpp(2720): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Kevin\CS3113Hw\Final Project\project_template\Windows\NYUCodebase\Debug\NYUCodebase.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\SDL2_mixer\lib\x86 /LIBPATH:C:\SDL2\lib\x86 /LIBPATH:C:\SDL2_image\lib\x86 /LIBPATH:C:\glew\lib\Release\Win32 SDL2.lib SDL2_mixer.lib glew32.lib SDL2main.lib SDL2_image.lib OpenGL32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Kevin\CS3113Hw\Final Project\project_template\Windows\NYUCodebase\Debug\NYUCodebase.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Kevin\CS3113Hw\Final Project\project_template\Windows\NYUCodebase\Debug\NYUCodebase.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Matrix.obj
+         Debug\ShaderProgram.obj
+         NYUCodebase.vcxproj -> C:\Users\Kevin\CS3113Hw\Final Project\project_template\Windows\NYUCodebase\Debug\NYUCodebase.exe
+     1>Done Building Project "C:\Users\Kevin\CS3113Hw\Final Project\project_template\Windows\NYUCodebase\NYUCodebase\NYUCodebase.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.32
